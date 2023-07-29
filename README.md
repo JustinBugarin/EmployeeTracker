@@ -23,11 +23,10 @@ node index.js
 [Node.js](https://nodejs.org/en/) | [Inquirer](https://www.npmjs.com/package/inquirer) | [MySQL](https://www.npmjs.com/package/mysql2)
 
 ***Once Installed:***
-1. Clone the Repository on to your machine.
-2. Open the terminal and ensure you are in the right file path.
-3. Run the command ```npm install``` to download the packages.
-4. Then run the command ```node index.js``` to run the software.
-5. The command prompt will begin on your terminal
+1. Open the terminal and ensure you are in the right file path.
+2. Run the command ```npm install``` to download the packages.
+3. Then run the command ```node index.js``` to run the software.
+4. The command prompt will begin on your terminal
 
 ## User Story
 ```
@@ -58,21 +57,13 @@ THEN I am prompted to select an employee to update and their new role and this i
 ```
 
 ## Screenshot
-![Command Line](./assets/images/command_line.png)
-
-## Video
-A link to the [Video](https://watch.screencastify.com/v/H4hFcg5JoAMnU0xBdJ8j):
-```
-https://watch.screencastify.com/v/H4hFcg5JoAMnU0xBdJ8j
-```
+![Lists of Options](./images/options.PNG)
 
 ## Link
-A link to the [code](https://github.com/jgarcia45/employee-tracker):
+https://watch.screencastify.com/v/H4hFcg5JoAMnU0xBdJ8j
 ```
-https://github.com/jgarcia45/employee-tracker
+https://github.com/JustinBugarin/EmployeeTracker
 ```
 
-## License
-  Copyright (c) Juan Garcia. All rights reserved.
-  
+## License  
   Licensed under the [MIT](LICENSE) license.
